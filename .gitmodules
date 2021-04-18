@@ -1,0 +1,3 @@
+[submodule "registry-spring"]
+	path = registry-spring
+	url = https://github.com/marcelop3251/registry-spring
