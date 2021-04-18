@@ -1,3 +1,6 @@
 [submodule "registry-spring"]
 	path = registry-spring
 	url = https://github.com/marcelop3251/registry-spring
+[submodule "kotlin-exposed-koin-javalin"]
+	path = kotlin-exposed-koin-javalin
+	url = https://github.com/marcelop3251/kotlin-exposed-koin-javalin
