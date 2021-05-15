@@ -15,7 +15,8 @@ In this project we have two applications.
 
 ### Architecture
 
-![system](https://github.com/marcelop3251/metrics-performance/blob/master/architecture.png)
+![system](https://github.com/marcelop3251/metrics-performance/blob/main/architecture.png)
+          
 
 ## How to execute the first project and collect and display these metrics?
 
